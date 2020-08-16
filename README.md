@@ -7,8 +7,8 @@ download and clone the project
 # Second Step
 
 you need to setup firebase so you can use this app
-it's free just signup and change the configurations
-inside firebase_config.js
+it's free just signup and create a firebase.js file 
+with the configurations
 
 # Third Step
 
