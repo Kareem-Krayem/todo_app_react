@@ -22,4 +22,4 @@ you need to run the following commands:
 
 and you are ready to go
 
-# THank you Enjoy !
+# Thank you Enjoy !
